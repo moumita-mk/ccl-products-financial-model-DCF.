@@ -99,7 +99,10 @@ forecasting and model architecture.
 This repository is for educational and portfolio purposes only and does
 **not** constitute investment advice or a recommendation to buy or sell
 any security. Forecasts and valuation outputs depend on assumptions and
-may differ materially from actual outcomes.
+may differ materially from actual outcomes.This independent educational
+portfolio project is unaffiliated with and not endorsed by CCL Products
+(India) Limited or any peer company. It is based on publicly available
+information and does not constitute investment advice.
 
 
 ## Author
@@ -107,10 +110,11 @@ may differ materially from actual outcomes.
 moumi230790@gmail.com
 
 >[!NOTE]
->The complete model (Excel and PDF) is available upon request for recruitment and professional evaluation purposes.
+>The complete model (Excel and PDF) is available upon request for
+recruitment and professional evaluation purposes.
 
-## Disclaimer
-This independent educational portfolio project is unaffiliated with and not endorsed by CCL Products (India) Limited or any peer company. It is based on publicly available information and does not constitute investment advice.
 
 ## © 2026 Moumita Dey. All rights reserved.
-This project is provided solely for portfolio review and educational demonstration. Reproduction, redistribution, commercial use, or presentation of this work as another person’s original work is prohibited without prior written permission.
+This project is provided solely for portfolio review and educational demonstration.
+Reproduction, redistribution, commercial use, or presentation of this work as another
+person’s original work is prohibited without prior written permission.
